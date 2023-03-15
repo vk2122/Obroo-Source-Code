@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237842734021",
+    "project_id": "obroo-user-app",
+    "storage_bucket": "obroo-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237842734021:android:d5ee2ff9d6a7432167c9ac",
+        "android_client_info": {
+          "package_name": "com.bhive.obroouser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237842734021-05s1khm8v89e7au5kp5jmt9tco4vg80c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tP3iHdkiXtqT0A3k5QJepj5LfTTBSwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237842734021-05s1khm8v89e7au5kp5jmt9tco4vg80c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
